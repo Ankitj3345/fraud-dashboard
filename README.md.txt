@@ -10,6 +10,4 @@ SHAP Explainability
 
 Fraud Risk Segmentation
 
-Live URL:
-
-PASTE_AFTER_DEPLOY
+Live URL:https://fraud-dashboard-bnuqrwmouzvtwxeywlg9zr.streamlit.app/
