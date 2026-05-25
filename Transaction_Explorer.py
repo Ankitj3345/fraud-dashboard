@@ -11,7 +11,7 @@ st.title(
 
 df = pd.read_csv(
 
-"risk_data.csv"
+"risk_data_small.csv"
 
 )
 
