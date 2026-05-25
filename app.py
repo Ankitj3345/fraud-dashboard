@@ -10,7 +10,7 @@ layout="wide"
 )
 
 df=pd.read_csv(
-"risk_data.csv"
+"risk_data_small.csv"
 )
 
 st.title(
